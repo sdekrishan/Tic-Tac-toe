@@ -55,3 +55,8 @@ h1{
     font-size: 1.5rem;
   }
 }
+button {
+  padding:1rem;
+  background-color:"black";
+  color:white;
+}
