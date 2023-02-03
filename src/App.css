@@ -58,5 +58,7 @@ h1{
 button {
   padding:1rem;
   background-color:"black";
-  color:white;
+  color:black;
+  border-radius: 10px 14px;
+  margin-right:1rem;
 }
