@@ -55,10 +55,13 @@ h1{
     font-size: 1.5rem;
   }
 }
-button {
+button{
   padding:1rem;
   background-color:"black";
-  color:black;
   border-radius: 10px 14px;
   margin-right:1rem;
+  background-color: lightgreen;
+  border:1px solid black;
+  
 }
+
